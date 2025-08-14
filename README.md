@@ -125,13 +125,6 @@ Performance::log(task);
 
 ---
 
-## 👩‍💻 Author
-
-**Tanishka Randive**  
-📍 BTech AI & Data Engineering @ IIT Ropar  
-🔗 [GitHub](https://github.com/Tanishka15) | [LinkedIn](https://www.linkedin.com/in/tanishka-randive-42639b275/)
-
----
 
 ## 📝 License
 
